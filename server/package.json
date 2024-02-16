@@ -1,5 +1,24 @@
+
 {
+  "name": "events-mirror-dwellers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon . -e js,graphql"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "npm": ">=6.0.0",
+    "node": ">=14.0.0 <=20"
+  },
   "dependencies": {
-    "@apollo/server": "^4.10.0"
+    "@apollo/server": "^4.10.0",
+    "@apollo/subgraph": "^2.5.5",
+    "graphql": "^16.8.1",
+    "graphql-tag": "^2.12.6",
+    "nodemon": "^2.0.22"
   }
 }
