@@ -29,8 +29,5 @@ extend schema @link(url: "https://specs.apollo.dev/federation/v2.5", import: ["@
         title: String!
         "The Event's Description"
         description: String!
-        "The Event's Image that will be displayed on the UI"
-        image: String!
-        "The date and time when the event was scheduled"
-        date: String!
+
     }

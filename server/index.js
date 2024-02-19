@@ -76,3 +76,21 @@ The old server configuration
     // `);
 
 */}
+
+{/*
+
+the old data that was on the first version of the card to create the query
+
+    type Event @key(fields: "id") {
+        id: ID!
+        "The Event's Title"
+        title: String!
+        "The Event's Description"
+        description: String!
+        "The Event's Image that will be displayed on the UI"
+        image: String!
+        "The date and time when the event was scheduled"
+        date: String!
+    }
+    
+*/}

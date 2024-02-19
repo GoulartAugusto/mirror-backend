@@ -1,0 +1,207 @@
+{
+    "events": [
+        {
+          "id": 1,
+          "title": "This is Very nice!",
+          "description": "Wawa wewa!",
+          "image": "/images/1.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 2,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot btw and everyone likes it a lot",
+          "image": "/images/2.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 3,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/3.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 4,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot btw and everyone likes it a lot",
+          "image": "/images/4.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 5,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/5.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 6,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/6.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 7,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/7.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 8,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/8.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 9,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/9.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 10,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/10.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 11,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/11.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 12,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/12.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 13,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/13.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 14,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/14.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 15,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/15.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 16,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/16.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 17,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/17.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 18,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/18.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 19,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/19.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 20,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/20.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 21,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/21.jpeg",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 22,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/BackgroundImage.png",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 23,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/BackgroundImage.png",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 24,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/BackgroundImage.png",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 25,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/BackgroundImage.png",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 26,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/BackgroundImage.png",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 27,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/BackgroundImage.png",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 28,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/BackgroundImage.png",
+          "date": "01/11/2023"
+        },
+        {
+          "id": 29,
+          "title": "This is a really cool title btw",
+          "description": "This is a really cool title btw and everyone likes it a lot",
+          "image": "/images/BackgroundImage.png",
+          "date": "01/11/2023"
+        }
+      ]
+}
