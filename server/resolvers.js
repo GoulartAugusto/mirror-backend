@@ -20,9 +20,9 @@ const resolvers = {
                 }
             } catch (error) {
                 return {
-                    code: error.extensios.respose.status,
+                    code: error.extensions.respose.status,
                     success: false,
-                    message: error.extensios.response.body,
+                    message: error.extensions.response.body,
                     event: null
                 }
             }
