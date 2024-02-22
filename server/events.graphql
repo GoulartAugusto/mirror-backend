@@ -7,22 +7,6 @@ extend schema @link(url: "https://specs.apollo.dev/federation/v2.5", import: ["@
         event(id: ID!): Event
     }
 
-    type Mutation {
-        "Create a new Event that will be displayed on the homepage"
-        createNewEvent(id: ID!): CreateNewEventResponse!
-    }
-
-    type CreateNewEventResponse {
-        "Similar to HTTP status code, represents the status of the mutation"
-        code: Int!
-        "Indicates wheter the mutation was sucessful"
-        success: Boolean!
-        "Human readable description for UI"
-        message: String!
-        "Newly created Event after successful mutation"
-        event: Event
-    }
-
     "A Event, is a scheduled event tha will occur in a determinated time"
     type Event @key(fields: "id") {
         id: ID!
@@ -31,4 +15,29 @@ extend schema @link(url: "https://specs.apollo.dev/federation/v2.5", import: ["@
         "The Event's Description"
         description: String!
 
+    }
+
+    type Mutation {
+        "Create a new Event that will be displayed on the homepage"
+        submitNewEvent(newEvent: NewEventInput): SubmitNewEventResponse
+    }
+
+    input NewEventInput {
+        "The new Event title"
+        title: String!
+        "The new Event description"
+        description: String!
+        "The new Event Id"
+        eventId: String!
+    }
+
+    type SubmitNewEventResponse {
+        "Similar to HTTP status code, represents the status of the mutation"
+        code: Int!
+        "Indicates wheter the mutation was sucessful"
+        success: Boolean!
+        "Human readable description for UI"
+        message: String!
+        "Newly created Event after successful mutation"
+        newEvent: Event
     }
