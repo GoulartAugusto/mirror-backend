@@ -9,6 +9,12 @@ class EventAPI {
     getEvent(id) {
         return events.find(e => e.id === id)
     }
+
+    createNewEvent(event) {
+        const createEvent = { id: `rev-${events.length + 1}`, ...event }
+        events = [...events, createEvent]
+        return createEvent
+    }
 }
 
 module.exports = EventAPI;
