@@ -9,6 +9,7 @@ const typeDefs = gql`
     }
 
     type Mutation {
+        "Create a new Event that will be displayed on the homepage"
         createNewEvent(id: ID!): CreateNewEventResponse!
     }
 
