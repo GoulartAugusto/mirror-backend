@@ -8,6 +8,7 @@ extend schema @link(url: "https://specs.apollo.dev/federation/v2.5", import: ["@
     }
 
     type Mutation {
+        "Create a new Event that will be displayed on the homepage"
         createNewEvent(id: ID!): CreateNewEventResponse!
     }
 
