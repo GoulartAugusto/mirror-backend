@@ -1,5 +1,5 @@
 //const { RESTDataSource } = require('@apollo/datasource-rest');
-const { events } = require('./events_data.json')
+let { events } = require('./events_data.json')
 
 class EventAPI {
     getAllEvents() {
