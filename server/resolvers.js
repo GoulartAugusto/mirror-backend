@@ -24,3 +24,4 @@ const resolvers = {
 module.exports = resolvers;
 
 // now test the mutation
+// the mutation is tested with apollo explorer, now just implement it on the front-end application
